@@ -1,0 +1,35 @@
+.profile-box{
+    width: 500px;
+    border: 1.2px solid rgb(188, 184, 184);
+    margin: 50px auto;
+    border-radius: 10px;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.heading{
+    padding: 10px 30px;
+    padding-right: 70px;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    margin: 20px auto;
+    border-radius: 50%;
+    margin-left: 50px;
+}
+
+.footer{
+  border-top: 1.2px solid rgb(188, 184, 184);
+  padding: 10px;
+  padding-left: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(89, 140, 228);
+    font-weight: 500 ;
+}
+
